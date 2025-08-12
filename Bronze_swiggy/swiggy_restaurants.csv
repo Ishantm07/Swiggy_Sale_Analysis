@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,city,cuisine_type,avg_rating,delivery_time_mins,is_veg
+R0001,"White, Hayden and Banks",Bangalore,Vegetarian,3.5,27,Yes
+R0002,Smith and Sons,Kolkata,Chinese,3.1,60,No
+R0003,"Summers, Black and Taylor",Mumbai,Mexican,3.7,53,No
+R0004,Harper Ltd,Hyderabad,Mexican,3.1,29,No
+R0005,Brown Ltd,Delhi,Mexican,4.0,37,No
+R0006,Castillo Ltd,Delhi,Mexican,3.3,34,Yes
+R0007,Jones PLC,Delhi,North Indian,4.1,26,Yes
+R0008,Douglas PLC,Hyderabad,Mexican,4.2,41,No
+R0009,Dixon-Patton,Bangalore,Continental,3.7,24,No
+R0010,Williams and Sons,Hyderabad,South Indian,3.0,55,No
+R0011,Price Ltd,Delhi,Italian,3.7,44,Yes
+R0012,Duffy-Conley,Delhi,Continental,4.6,55,Yes
+R0013,Williams Group,Bangalore,Continental,4.8,24,Yes
+R0014,Ortega-Garcia,Bangalore,Italian,4.6,41,Yes
+R0015,"Watson, Wright and Wood",Delhi,Italian,3.9,32,No
+R0016,"Benton, Rose and Dixon",Chennai,Vegetarian,4.3,38,Yes
+R0017,"Shelton, Brown and Morris",Mumbai,South Indian,3.9,42,No
+R0018,Allen Inc,Kolkata,Chinese,4.8,31,Yes
+R0019,Banks-Long,Chennai,North Indian,3.1,32,Yes
+R0020,"Baker, Leach and Haley",Delhi,Mexican,4.2,56,No
+R0021,"Anthony, Ortiz and Taylor",Kolkata,Vegetarian,4.8,29,No
+R0022,Jackson Ltd,Bangalore,Continental,4.6,24,No
+R0023,Thompson-Mcclure,Bangalore,South Indian,5.0,60,No
+R0024,Morales LLC,Delhi,Vegetarian,4.7,49,Yes
+R0025,Pierce and Sons,Delhi,Italian,3.3,57,No
+R0026,Sharp and Sons,Kolkata,South Indian,4.2,25,No
+R0027,"Bullock, Elliott and Wilkinson",Chennai,North Indian,4.9,59,No
+R0028,Klein Inc,Bangalore,Mexican,3.3,55,Yes
+R0029,Gonzalez-Cohen,Hyderabad,Continental,4.2,53,Yes
+R0030,Silva-Mcbride,Hyderabad,North Indian,4.6,29,No
+R0031,"Ball, Gardner and Campbell",Kolkata,Italian,3.7,49,No
+R0032,Armstrong-Franklin,Chennai,Mexican,4.5,54,No
+R0033,Simmons Ltd,Kolkata,South Indian,3.7,58,Yes
+R0034,Robinson-Savage,Bangalore,Italian,3.7,44,Yes
+R0035,Dixon-Rodriguez,Hyderabad,Vegetarian,3.3,44,No
+R0036,Andersen Inc,Mumbai,Chinese,4.0,56,No
+R0037,Moon Ltd,Chennai,Chinese,4.8,38,Yes
+R0038,Singh-Miller,Hyderabad,North Indian,4.4,28,Yes
+R0039,Tran PLC,Mumbai,South Indian,4.2,59,Yes
+R0040,"Roberts, Fry and Jones",Mumbai,Chinese,3.6,60,No
+R0041,Johnson-Rosario,Bangalore,South Indian,4.0,55,Yes
+R0042,Anderson-Smith,Bangalore,South Indian,3.7,21,Yes
+R0043,"Peters, Hall and Perez",Delhi,Vegetarian,4.9,29,Yes
+R0044,Morrison and Sons,Hyderabad,Vegetarian,3.7,39,No
+R0045,Peters and Sons,Mumbai,North Indian,4.6,35,Yes
+R0046,Jackson Ltd,Kolkata,Chinese,3.5,60,No
+R0047,"Mitchell, Diaz and Hicks",Kolkata,South Indian,4.8,46,No
+R0048,Mcdaniel and Sons,Mumbai,South Indian,4.1,53,No
+R0049,Scott-Montgomery,Bangalore,Italian,3.3,41,No
+R0050,Matthews Inc,Hyderabad,Continental,4.0,57,Yes
+R0051,Paul-Krause,Hyderabad,Vegetarian,4.0,48,No
+R0052,Wilson-Bradford,Kolkata,Continental,4.6,41,No
+R0053,"Cherry, Bean and Wallace",Bangalore,South Indian,3.7,31,Yes
+R0054,Davenport Inc,Delhi,North Indian,3.4,30,Yes
+R0055,Davis-Bell,Kolkata,Continental,3.2,28,No
+R0056,Jones-Hayden,Chennai,South Indian,3.3,24,No
+R0057,Fletcher and Sons,Kolkata,Chinese,4.9,22,Yes
+R0058,Walker PLC,Chennai,Italian,4.5,44,Yes
+R0059,"Marshall, Greer and Mccullough",Kolkata,Italian,4.2,49,Yes
+R0060,"Allison, Patton and Reid",Mumbai,Continental,4.8,33,Yes
+R0061,"Garcia, Rollins and Stevens",Hyderabad,Mexican,4.9,60,No
+R0062,Green-Bates,Bangalore,Mexican,3.6,35,No
+R0063,Middleton Group,Hyderabad,North Indian,4.3,54,Yes
+R0064,Flores-Nichols,Kolkata,Continental,4.4,35,Yes
+R0065,"Young, Graham and Smith",Chennai,Vegetarian,4.9,29,No
+R0066,"Lee, Duncan and Stein",Mumbai,South Indian,4.0,34,Yes
+R0067,Wood LLC,Chennai,Vegetarian,4.9,22,Yes
+R0068,"Morgan, Jones and Wolfe",Hyderabad,Vegetarian,4.4,35,No
+R0069,Anderson-Gray,Kolkata,South Indian,3.5,24,No
+R0070,Mcguire PLC,Chennai,Chinese,4.5,22,Yes
+R0071,Long Inc,Kolkata,Mexican,4.0,28,No
+R0072,Richards-Smith,Chennai,Chinese,4.4,55,No
+R0073,Rivera-Bishop,Delhi,Mexican,4.1,40,No
+R0074,Morales-Arroyo,Hyderabad,Chinese,4.7,22,No
+R0075,"Hopkins, Haney and Olsen",Mumbai,Vegetarian,4.8,23,No
+R0076,"Cohen, Kent and Moore",Hyderabad,North Indian,5.0,24,No
+R0077,House-Smith,Mumbai,Vegetarian,3.7,44,No
+R0078,"Foster, Simon and Jones",Chennai,Italian,4.1,39,No
+R0079,Robertson and Sons,Hyderabad,Continental,3.7,58,No
+R0080,"Parker, Arias and Smith",Bangalore,North Indian,4.6,24,No
+R0081,Middleton-Olsen,Delhi,South Indian,5.0,34,Yes
+R0082,"Gibson, Cuevas and Nelson",Kolkata,Mexican,3.3,23,Yes
+R0083,Johnston-Mullins,Kolkata,Vegetarian,3.0,35,Yes
+R0084,Washington Ltd,Bangalore,Italian,4.1,58,Yes
+R0085,Flores Group,Kolkata,Mexican,3.6,44,No
+R0086,Sullivan-Higgins,Hyderabad,Mexican,5.0,57,No
+R0087,Williams-Adams,Mumbai,Vegetarian,3.5,59,No
+R0088,Holmes Ltd,Bangalore,Mexican,3.2,40,No
+R0089,Farrell and Sons,Bangalore,North Indian,3.2,26,Yes
+R0090,Griffin Ltd,Mumbai,South Indian,3.9,54,No
+R0091,"Butler, Murray and Mendez",Delhi,South Indian,3.6,29,Yes
+R0092,Ortega-Rogers,Kolkata,Vegetarian,3.5,43,Yes
+R0093,Vasquez Inc,Hyderabad,Continental,3.9,60,Yes
+R0094,Soto Ltd,Chennai,Continental,5.0,35,Yes
+R0095,"Decker, Krause and Johnson",Mumbai,Chinese,4.3,59,Yes
+R0096,Cortez and Sons,Bangalore,Mexican,3.8,29,No
+R0097,Rodriguez Ltd,Mumbai,Chinese,3.4,39,Yes
+R0098,"Murphy, Campbell and Reyes",Chennai,North Indian,3.7,43,No
+R0099,Parker PLC,Kolkata,Vegetarian,5.0,53,No
+R0100,Dillon-Wright,Mumbai,Continental,3.4,39,Yes
+R0101,Odonnell-Hartman,Bangalore,Vegetarian,3.0,23,No
+R0102,Harris LLC,Kolkata,South Indian,3.4,53,Yes
+R0103,Shah-Mclean,Mumbai,Continental,3.8,22,No
+R0104,Lopez Ltd,Delhi,Mexican,4.6,47,Yes
+R0105,"Stafford, Lopez and Carter",Chennai,North Indian,4.4,39,Yes
+R0106,"Jones, Morales and Avery",Chennai,North Indian,4.4,60,No
+R0107,Roberts LLC,Mumbai,Continental,4.0,39,No
+R0108,Pham-Brown,Kolkata,North Indian,3.5,57,Yes
+R0109,"Miller, Gonzalez and White",Chennai,South Indian,3.6,58,Yes
+R0110,Brown Ltd,Mumbai,South Indian,3.4,24,Yes
+R0111,Miller-Phillips,Chennai,,4.3,32,No
+R0112,Hudson-Anderson,Delhi,Continental,4.0,22,Yes
+R0113,Franklin and Sons,Hyderabad,Italian,4.0,48,Yes
+R0114,Fritz and Sons,Bangalore,Chinese,3.5,21,Yes
+R0115,Johnson PLC,Bangalore,Vegetarian,4.3,33,No
+R0116,Moore-Allen,Hyderabad,Vegetarian,4.5,49,No
+R0117,"Hernandez, Sanders and Smith",Delhi,Continental,4.2,52,No
+R0118,Terry-Montgomery,Kolkata,Italian,3.5,30,Yes
+R0119,Goodman-Arnold,Chennai,North Indian,3.4,21,No
+R0120,Pearson Ltd,Chennai,Vegetarian,4.1,50,Yes
+R0121,"Long, Adkins and Harris",Chennai,Mexican,5.0,35,Yes
+R0122,"Kim, Boyd and Fitzpatrick",Bangalore,Italian,3.5,60,No
+R0123,Lee Group,Kolkata,South Indian,4.4,53,Yes
+R0124,Stephenson Inc,Delhi,Chinese,4.3,32,No
+R0125,Wood LLC,Kolkata,Mexican,3.1,22,Yes
+R0126,White-Cooper,Mumbai,South Indian,3.2,24,No
+R0127,Sanford-Thompson,Chennai,Vegetarian,4.6,55,Yes
+R0128,Riley-Bridges,Hyderabad,North Indian,3.2,60,No
+R0129,Torres PLC,Bangalore,Continental,4.8,42,Yes
+R0130,King LLC,Mumbai,,4.3,46,Yes
+R0131,White-Garcia,Bangalore,Mexican,3.4,55,No
+R0132,Chase LLC,Delhi,North Indian,3.4,24,No
+R0133,Smith-Johnson,Kolkata,Vegetarian,4.4,47,No
+R0134,Larson-Clayton,Bangalore,South Indian,4.2,27,Yes
+R0135,Ball Ltd,Hyderabad,South Indian,3.3,36,No
+R0136,"Walter, Patel and Harris",Delhi,Italian,4.1,58,Yes
+R0137,Hale Inc,Delhi,Italian,3.8,39,Yes
+R0138,Taylor-Kemp,Hyderabad,Chinese,3.2,59,No
+R0139,Oconnor and Sons,Hyderabad,North Indian,4.2,59,Yes
+R0140,Gallagher-Bradshaw,Mumbai,North Indian,3.0,41,No
+R0141,"Dunn, Chung and Harris",Chennai,Vegetarian,3.5,45,No
+R0142,"Simmons, Lopez and Rosario",Kolkata,South Indian,4.2,52,No
+R0143,Nguyen-Frederick,Mumbai,Continental,4.1,44,Yes
+R0144,Potter Group,Hyderabad,North Indian,3.6,36,No
+R0145,Green-Thomas,Kolkata,South Indian,3.2,42,No
+R0146,Burns-Lopez,Bangalore,North Indian,4.6,38,No
+R0147,Cobb-Cox,Bangalore,Chinese,4.3,33,Yes
+R0148,Snyder-Taylor,Delhi,Vegetarian,4.1,51,No
+R0149,"Price, Cook and Jones",Hyderabad,Vegetarian,3.6,37,Yes
+R0150,Johns-Ray,Kolkata,Continental,4.4,60,No
+R0151,"Lee, Pierce and Berry",Mumbai,Mexican,5.0,55,Yes
+R0152,Hughes Ltd,Hyderabad,Continental,3.3,45,Yes
+R0153,Bennett-Montgomery,Kolkata,,3.8,35,No
+R0154,"Cook, Weiss and Baldwin",Kolkata,Continental,3.4,31,Yes
+R0155,Wheeler-Nguyen,Delhi,Vegetarian,4.0,34,Yes
+R0156,"Santana, Johnson and Brown",Chennai,South Indian,4.6,23,Yes
+R0157,Black-Hess,Mumbai,South Indian,4.5,24,Yes
+R0158,Scott LLC,Delhi,Italian,4.5,20,Yes
+R0159,Woods Inc,Chennai,Vegetarian,4.2,47,No
+R0160,"Johnson, Jensen and Hubbard",Hyderabad,Italian,3.9,26,Yes
+R0161,Gallagher-Wilson,Bangalore,North Indian,3.9,53,Yes
+R0162,Rodriguez-Jones,Kolkata,South Indian,4.1,24,No
+R0163,"Massey, Porter and Moore",Hyderabad,Chinese,3.6,44,No
+R0164,Powell PLC,Bangalore,Vegetarian,3.7,57,Yes
+R0165,Mendez-Brown,Delhi,South Indian,3.5,36,No
+R0166,Ayers-Haas,Mumbai,Italian,4.7,26,No
+R0167,"Shields, Obrien and Moon",Hyderabad,Continental,4.5,53,No
+R0168,Livingston PLC,Mumbai,South Indian,3.4,31,Yes
+R0169,"Russell, Carr and Bradley",Mumbai,Chinese,3.3,37,Yes
+R0170,Ray Inc,Hyderabad,North Indian,3.6,34,Yes
+R0171,Tucker-Rogers,Delhi,Italian,4.4,30,Yes
+R0172,"Carpenter, Smith and Brown",Chennai,Vegetarian,4.6,48,No
+R0173,Kim-Carrillo,Hyderabad,Vegetarian,3.8,48,No
+R0174,Spears-Price,Mumbai,Continental,4.5,21,No
+R0175,"Suarez, Robinson and Garza",Chennai,Chinese,4.7,35,Yes
+R0176,"Powell, Hamilton and Hurst",Hyderabad,Mexican,3.4,28,No
+R0177,Baker-Massey,Chennai,North Indian,3.7,33,Yes
+R0178,Santiago LLC,Mumbai,Mexican,4.5,45,No
+R0179,"Gallegos, Ward and Johnson",Bangalore,Continental,3.9,36,Yes
+R0180,Bauer Inc,Chennai,,3.3,57,No
+R0181,Kemp-Harvey,Hyderabad,Italian,3.9,23,No
+R0182,Zuniga-Durham,Hyderabad,,4.5,44,Yes
+R0183,"Wilkins, Moore and Haynes",Kolkata,Chinese,4.0,32,No
+R0184,Miller Group,Bangalore,,3.7,58,Yes
+R0185,Black-Duncan,Delhi,North Indian,3.7,58,No
+R0186,Stout-Carr,Kolkata,Vegetarian,3.3,27,No
+R0187,Wise and Sons,Delhi,North Indian,4.3,43,Yes
+R0188,Maldonado and Sons,Delhi,Italian,4.1,36,No
+R0189,"Rosales, Martin and Mitchell",Delhi,Chinese,3.1,54,No
+R0190,"Mitchell, Davis and Parker",Bangalore,Mexican,4.4,26,Yes
+R0191,Fox-Friedman,Kolkata,Italian,3.3,21,Yes
+R0192,"Gomez, White and Castillo",Delhi,Vegetarian,3.7,31,Yes
+R0193,Jones Ltd,Hyderabad,Italian,3.5,25,Yes
+R0194,Horne Inc,Mumbai,Continental,3.3,37,Yes
+R0195,Davis Group,Kolkata,Vegetarian,3.0,51,No
+R0196,Contreras-Lee,Delhi,Continental,3.9,40,Yes
+R0197,King and Sons,Kolkata,Mexican,4.0,37,Yes
+R0198,Espinoza-Peterson,Hyderabad,Mexican,4.8,37,No
+R0199,Price and Sons,Kolkata,Mexican,4.1,37,No
+R0200,Barrera Inc,Kolkata,South Indian,3.2,58,Yes
+R0201,"Hunt, Cobb and Bell",Delhi,Italian,4.1,21,No
+R0202,Chen-Nash,Hyderabad,Italian,3.2,49,No
+R0203,Kelly-Stephens,Kolkata,Vegetarian,4.0,41,No
+R0204,Jefferson-Saunders,Kolkata,Vegetarian,4.5,58,No
+R0205,Barry-Boone,Kolkata,South Indian,3.2,44,Yes
+R0206,Mayer and Sons,Bangalore,South Indian,3.4,36,No
+R0207,Blevins and Sons,Hyderabad,South Indian,4.6,28,No
+R0208,Wagner-Johnson,Mumbai,North Indian,4.1,45,Yes
+R0209,Torres Inc,Chennai,Italian,3.4,24,Yes
+R0210,Young-Skinner,Hyderabad,Mexican,4.8,36,No
+R0211,"Henderson, Horn and Diaz",Chennai,Continental,3.6,28,Yes
+R0212,"Thompson, Garza and Montgomery",Bangalore,Mexican,4.7,45,No
+R0213,Carrillo Group,Delhi,Italian,4.1,55,Yes
+R0214,Ellis-Scott,Bangalore,South Indian,3.7,27,No
+R0215,"Cook, Carroll and May",Mumbai,North Indian,4.2,46,Yes
+R0216,Lewis-Andrews,Mumbai,,4.7,44,No
+R0217,"Thomas, Frederick and Lucas",Delhi,,3.6,20,Yes
+R0218,Campos LLC,Hyderabad,Mexican,4.2,24,No
+R0219,Conner Ltd,Delhi,Italian,3.0,33,No
+R0220,"Mccoy, Stone and Rose",Hyderabad,Continental,3.6,34,No
+R0221,Holland-Morgan,Delhi,Continental,4.8,45,Yes
+R0222,Sexton-Lopez,Kolkata,,3.2,53,No
+R0223,Beck Ltd,Kolkata,North Indian,4.7,26,No
+R0224,"Davis, Buchanan and Lewis",Delhi,Vegetarian,4.4,59,No
+R0225,Rodriguez-Lewis,Bangalore,North Indian,3.4,41,No
+R0226,Austin Inc,Mumbai,South Indian,3.2,38,No
+R0227,"Myers, Park and Smith",Hyderabad,Vegetarian,3.3,32,No
+R0228,Johnson-White,Hyderabad,Continental,4.9,51,Yes
+R0229,Wood-Black,Chennai,Chinese,3.7,36,No
+R0230,"Hobbs, Duncan and Bryan",Kolkata,Chinese,4.5,49,No
+R0231,Brown Inc,Chennai,South Indian,4.5,46,No
+R0232,Wilcox Group,Hyderabad,Chinese,4.8,48,Yes
+R0233,Sanders Group,Mumbai,Chinese,4.5,40,No
+R0234,Mcdonald PLC,Mumbai,Italian,4.7,58,Yes
+R0235,"Adams, Lewis and Payne",Hyderabad,Continental,3.5,50,Yes
+R0236,"Wells, Ramirez and Hunter",Kolkata,Mexican,3.2,21,No
+R0237,"Carrillo, Gonzalez and Diaz",Hyderabad,North Indian,4.2,34,No
+R0238,"Becker, Johnson and Allison",Bangalore,,3.3,49,Yes
+R0239,Solomon-Harrison,Bangalore,Continental,3.5,60,Yes
+R0240,Howell-Johnston,Mumbai,Chinese,4.8,50,No
+R0241,"Johnson, Bauer and Crawford",,Continental,4.0,21,No
+R0242,"Huang, Watson and Marshall",Bangalore,Italian,3.8,40,No
+R0243,Rogers LLC,Hyderabad,Chinese,4.2,58,Yes
+R0244,"Conner, Garza and Anderson",Kolkata,Vegetarian,4.9,50,Yes
+R0245,Griffith PLC,Delhi,South Indian,3.3,47,No
+R0246,Rhodes Group,Mumbai,,3.2,52,Yes
+R0247,Collins Group,Hyderabad,Continental,4.4,54,No
+R0248,Oconnor-Lester,Kolkata,Continental,4.0,31,No
+R0249,Murphy Group,Mumbai,Mexican,4.9,31,No
+R0250,Griffin-Boyd,Bangalore,South Indian,4.5,29,Yes
+R0251,"Sanders, Murray and Mcconnell",Kolkata,Chinese,4.8,50,Yes
+R0252,Contreras LLC,Delhi,Vegetarian,3.7,42,No
+R0253,Dillon and Sons,Hyderabad,Chinese,4.5,44,Yes
+R0254,"Castro, Cole and Wheeler",Bangalore,Mexican,3.9,20,No
+R0255,"Bailey, Carter and Neal",Hyderabad,Chinese,3.9,59,Yes
+R0256,"Smith, Mason and Moore",Hyderabad,Mexican,3.7,36,Yes
+R0257,Cooper-Porter,Delhi,Italian,4.2,59,No
+R0258,Villanueva Group,Hyderabad,Continental,3.6,25,No
+R0259,Miller-Nguyen,Delhi,Mexican,4.2,32,Yes
+R0260,Snyder-Johnston,Delhi,Mexican,4.7,47,No
+R0261,Weiss-Patrick,Delhi,Continental,4.1,34,Yes
+R0262,Graham-Gibson,Chennai,Italian,4.3,21,No
+R0263,Rogers Group,Mumbai,Chinese,3.1,42,No
+R0264,"Jones, Berry and Kramer",Chennai,Chinese,4.2,43,Yes
+R0265,Jacobson-Bailey,Delhi,South Indian,3.8,43,No
+R0266,"Hess, Brown and Quinn",Hyderabad,Chinese,3.7,40,No
+R0267,Huang-Mccann,Mumbai,Vegetarian,3.7,42,Yes
+R0268,Rhodes-Hill,Kolkata,Continental,3.8,47,No
+R0269,Sims Group,Mumbai,Mexican,4.4,42,No
+R0270,Sherman-Ray,Delhi,Mexican,3.5,23,No
+R0271,"Mckinney, Graham and Frey",Mumbai,Mexican,3.6,55,No
+R0272,Davis Inc,Chennai,South Indian,3.1,24,Yes
+R0273,"Crosby, Scott and Marquez",Bangalore,Mexican,3.4,35,No
+R0274,Duncan and Sons,Kolkata,Chinese,3.3,30,No
+R0275,Malone LLC,Mumbai,Italian,3.5,28,No
+R0276,Miller PLC,Chennai,Continental,4.8,33,No
+R0277,Gonzalez-Richardson,Kolkata,,3.6,26,No
+R0278,Brown-Taylor,Kolkata,Continental,4.2,50,Yes
+R0279,Wright Inc,Bangalore,Chinese,4.8,54,Yes
+R0280,"Watts, Romero and Williams",Mumbai,Vegetarian,4.5,29,No
+R0281,Mullen Ltd,Bangalore,Continental,5.0,34,No
+R0282,Martin-Estrada,Delhi,Vegetarian,3.8,24,No
+R0283,"Sanford, Cole and Ross",Kolkata,Vegetarian,3.1,52,No
+R0284,"Bennett, Roach and Johnson",Chennai,Chinese,3.1,58,No
+R0285,"Douglas, Davis and Wise",Mumbai,Chinese,3.6,40,No
+R0286,Newman PLC,Chennai,Vegetarian,3.6,38,Yes
+R0287,"Wallace, Hernandez and Brown",Chennai,Chinese,4.7,21,Yes
+R0288,Barrett Group,Delhi,Vegetarian,3.8,22,No
+R0289,Brooks-Gibson,Delhi,Chinese,3.9,30,No
+R0290,"Tran, Petty and Taylor",Kolkata,Chinese,3.9,47,No
+R0291,"Swanson, Robinson and West",Delhi,Mexican,3.5,34,No
+R0292,"Alvarado, Rodriguez and Randolph",Chennai,North Indian,4.0,29,No
+R0293,"Smith, Smith and Hall",Mumbai,Mexican,4.7,30,Yes
+R0294,"Perez, Lawrence and Cruz",Bangalore,Continental,4.4,53,No
+R0295,Morse-Sosa,Bangalore,South Indian,4.6,47,No
+R0296,Brown-Snyder,Chennai,Chinese,3.2,46,No
+R0297,"Smith, Bryant and Wells",Delhi,Chinese,3.2,28,Yes
+R0298,"Peterson, Rocha and Kent",Bangalore,Mexican,3.8,30,No
+R0299,"Roman, Perez and Rowland",,Vegetarian,3.2,28,Yes
+R0300,Huffman-Shepard,Chennai,Continental,4.4,50,Yes
+R0301,Nguyen Group,Delhi,South Indian,4.6,60,No
+R0302,"Wilson, Camacho and Hunt",Mumbai,Italian,4.2,30,Yes
+R0303,"Brennan, Mcneil and Cruz",Delhi,Continental,3.2,37,No
+R0304,"Schultz, Stewart and Andrade",Hyderabad,Italian,3.5,56,No
+R0305,Carson-Armstrong,Chennai,Mexican,3.5,24,Yes
+R0306,"Shaffer, Valdez and Navarro",Hyderabad,North Indian,3.6,43,Yes
+R0307,Simpson PLC,Kolkata,Italian,4.4,53,No
+R0308,Williams and Sons,Bangalore,Italian,4.1,22,No
+R0309,"Moore, Summers and Holt",Kolkata,South Indian,3.3,57,Yes
+R0310,Miller-Bradford,Delhi,Mexican,4.0,31,Yes
+R0311,Barker-Padilla,Kolkata,North Indian,4.4,41,Yes
+R0312,Joseph-Hicks,Kolkata,Chinese,3.3,38,Yes
+R0313,Jimenez-Stephenson,Kolkata,North Indian,5.0,58,No
+R0314,"Dorsey, Frost and Reynolds",Mumbai,Continental,3.8,57,Yes
+R0315,"Jones, Marsh and Salinas",Mumbai,Vegetarian,4.3,37,No
+R0316,Smith and Sons,Kolkata,North Indian,5.0,45,No
+R0317,Gibbs and Sons,Bangalore,South Indian,4.1,46,No
+R0318,"Espinoza, Owens and Haynes",Hyderabad,Vegetarian,3.3,31,No
+R0319,Kirk Inc,Mumbai,Mexican,4.9,20,No
+R0320,Roberts and Sons,Bangalore,North Indian,3.4,46,Yes
+R0321,"Key, Hampton and Garcia",Chennai,North Indian,5.0,28,Yes
+R0322,"Nichols, Lopez and Dennis",Mumbai,South Indian,4.3,50,No
+R0323,"Johnson, Perez and Hernandez",Chennai,Chinese,3.7,52,No
+R0324,Flowers PLC,Hyderabad,Vegetarian,4.9,33,Yes
+R0325,Fernandez-Mcintyre,Bangalore,North Indian,4.5,55,Yes
+R0326,Velasquez PLC,Mumbai,North Indian,3.2,39,Yes
+R0327,"Keith, Reid and Leach",Delhi,South Indian,3.5,24,No
+R0328,Brown Ltd,Hyderabad,Continental,4.9,25,Yes
+R0329,Tucker Group,Bangalore,Vegetarian,4.2,53,Yes
+R0330,Blevins-Atkins,Chennai,North Indian,3.1,24,Yes
+R0331,Baker-Lewis,,Vegetarian,4.9,55,No
+R0332,"Compton, Davenport and Anderson",Mumbai,North Indian,4.9,39,Yes
+R0333,"Rubio, Hardy and Casey",Chennai,South Indian,3.1,36,No
+R0334,Spence LLC,Bangalore,Vegetarian,3.5,49,Yes
+R0335,Powell Group,Mumbai,Italian,4.2,30,No
+R0336,Smith and Sons,Bangalore,Chinese,3.1,39,No
+R0337,Thompson-Cortez,Hyderabad,Continental,4.4,39,No
+R0338,"Chavez, Morales and Rowe",Hyderabad,North Indian,4.4,30,No
+R0339,Allen-Nichols,Hyderabad,Vegetarian,3.5,57,Yes
+R0340,"Quinn, Stanley and Smith",Hyderabad,North Indian,4.6,56,No
+R0341,Shields Inc,Kolkata,Continental,3.9,31,No
+R0342,Brown LLC,Bangalore,North Indian,3.9,50,No
+R0343,"Soto, Cooper and Ramos",Mumbai,Vegetarian,4.9,44,No
+R0344,Todd and Sons,Delhi,South Indian,4.0,55,Yes
+R0345,Sloan-Alvarado,Delhi,Continental,3.3,53,No
+R0346,"Moore, Lewis and Miller",Delhi,Mexican,3.9,44,Yes
+R0347,James-Glover,Hyderabad,Vegetarian,3.4,28,No
+R0348,Lambert Group,Kolkata,Continental,3.0,46,Yes
+R0349,Lee-Walker,Bangalore,North Indian,4.0,21,No
+R0350,"Clark, Woods and Reed",Kolkata,Mexican,4.3,45,Yes
+R0351,"Johnson, Smith and Boone",Delhi,Vegetarian,5.0,46,Yes
+R0352,"Holt, Harrison and Ray",Delhi,Mexican,4.2,41,No
+R0353,Wise-Martin,Chennai,North Indian,4.1,28,Yes
+R0354,"Gonzales, Sellers and King",Chennai,South Indian,3.8,41,No
+R0355,Anderson-Hughes,Bangalore,South Indian,3.9,24,Yes
+R0356,"Smith, Shepherd and Fernandez",Delhi,Chinese,4.4,33,Yes
+R0357,Burch Group,Mumbai,Italian,4.0,25,No
+R0358,Mercer PLC,Chennai,North Indian,4.2,50,No
+R0359,Williams-Evans,Kolkata,Mexican,3.6,31,No
+R0360,"Cohen, Neal and Alvarado",Kolkata,South Indian,3.6,46,Yes
+R0361,Garcia and Sons,Mumbai,Mexican,3.2,32,Yes
+R0362,Ballard Group,Bangalore,South Indian,3.1,27,Yes
+R0363,Fletcher-Taylor,Mumbai,Continental,3.1,51,No
+R0364,"Smith, Fox and Brown",Bangalore,Mexican,4.2,48,No
+R0365,Andrade-Barnes,Bangalore,North Indian,3.2,24,Yes
+R0366,"Romero, Scott and Campbell",Hyderabad,Italian,4.1,59,No
+R0367,"Fowler, Jennings and Thompson",Bangalore,Italian,4.2,60,Yes
+R0368,Burke Group,Hyderabad,South Indian,3.4,46,Yes
+R0369,"Shah, Marshall and Williams",Bangalore,Vegetarian,4.2,54,No
+R0370,"Brown, Norton and Morgan",Hyderabad,South Indian,3.1,21,No
+R0371,"Davis, Andrade and Foster",Kolkata,North Indian,3.7,20,Yes
+R0372,Ramos-Gregory,Chennai,North Indian,4.5,44,Yes
+R0373,Dominguez-Foley,Chennai,Mexican,3.2,42,Yes
+R0374,Caldwell-Morton,Mumbai,South Indian,3.5,32,No
+R0375,Keller-Rogers,Delhi,Italian,3.4,23,Yes
+R0376,"Blake, Brown and Frank",Delhi,Italian,4.6,55,No
+R0377,Ochoa-Brooks,Mumbai,Vegetarian,5.0,57,Yes
+R0378,Burton-Sims,Chennai,Chinese,3.1,21,No
+R0379,"Dominguez, Parker and Solis",Hyderabad,North Indian,4.0,30,No
+R0380,Travis-Sanchez,Mumbai,North Indian,3.7,25,Yes
+R0381,Murray PLC,Mumbai,North Indian,4.5,29,No
+R0382,Alvarez PLC,Chennai,Continental,4.3,58,No
+R0383,Carpenter-Fletcher,Chennai,Vegetarian,4.9,44,No
+R0384,Miller Inc,Bangalore,Chinese,3.1,30,Yes
+R0385,Barker Group,Hyderabad,Continental,4.1,23,No
+R0386,Lopez-Walters,Hyderabad,Chinese,3.7,25,No
+R0387,"Waters, Mullen and Robertson",Kolkata,Mexican,3.6,33,Yes
+R0388,Pugh and Sons,Delhi,Vegetarian,4.0,23,No
+R0389,"Mendoza, Foster and Flores",Mumbai,Vegetarian,4.8,60,Yes
+R0390,Harris LLC,Delhi,Italian,3.9,54,Yes
+R0391,Hayden-Richardson,Bangalore,Continental,3.4,22,No
+R0392,Stewart Ltd,Bangalore,Continental,4.2,58,No
+R0393,Calderon and Sons,Hyderabad,Mexican,3.6,32,Yes
+R0394,Avila LLC,Kolkata,South Indian,4.2,53,No
+R0395,Thompson-Tyler,Bangalore,Vegetarian,4.4,22,Yes
+R0396,Payne PLC,Chennai,South Indian,4.0,58,Yes
+R0397,"Stanley, Lin and Welch",Mumbai,Italian,4.4,40,No
+R0398,Young Group,Mumbai,North Indian,4.6,50,No
+R0399,"Sawyer, Farrell and Davies",Mumbai,North Indian,4.7,32,No
+R0400,Patel-Diaz,Mumbai,Vegetarian,4.5,49,No
+R0401,Hopkins-Flores,Mumbai,South Indian,3.5,35,No
+R0402,"Howell, Martin and Palmer",Chennai,Italian,4.4,55,Yes
+R0403,Johnson Group,Bangalore,North Indian,4.1,57,No
+R0404,Chavez-Santiago,Delhi,South Indian,3.8,23,No
+R0405,Perkins PLC,Chennai,Chinese,3.8,35,Yes
+R0406,"Patton, Giles and Rowland",Bangalore,Vegetarian,3.7,34,Yes
+R0407,Hill-Quinn,Chennai,Continental,4.3,58,No
+R0408,"Cole, Stephens and Daniels",Bangalore,Italian,4.9,35,No
+R0409,Rios-Tucker,Kolkata,South Indian,3.2,37,No
+R0410,"Morris, Potts and Taylor",Bangalore,Mexican,4.2,23,No
+R0411,Rich Group,Bangalore,Italian,4.2,26,Yes
+R0412,"Powers, Hall and Carr",Mumbai,Chinese,4.6,47,Yes
+R0413,"Atkinson, Evans and Rice",Delhi,Vegetarian,3.6,29,No
+R0414,Perkins-Tran,Hyderabad,Chinese,4.9,50,No
+R0415,Richardson Ltd,Kolkata,Continental,4.0,40,No
+R0416,"Valdez, Morris and Vargas",Bangalore,Mexican,4.3,57,No
+R0417,Richards-Perry,Mumbai,Mexican,3.6,24,No
+R0418,Guerra-Peters,Delhi,Chinese,3.6,57,Yes
+R0419,Hernandez-Edwards,Delhi,South Indian,3.7,46,Yes
+R0420,Ellis Inc,Bangalore,Vegetarian,4.8,32,No
+R0421,Vaughn-Hall,Hyderabad,Vegetarian,4.2,34,Yes
+R0422,Perez PLC,Bangalore,Vegetarian,4.7,43,Yes
+R0423,Martin-Meyers,Delhi,North Indian,3.9,58,No
+R0424,Kelly-Walker,Delhi,,4.8,37,Yes
+R0425,Bowman PLC,Chennai,Continental,4.9,39,No
+R0426,Barber-Ortiz,Bangalore,Continental,4.6,55,No
+R0427,"King, Davis and Reed",Mumbai,South Indian,4.6,47,No
+R0428,Matthews Group,Mumbai,Italian,4.5,46,Yes
+R0429,Thompson and Sons,Kolkata,Mexican,4.9,47,Yes
+R0430,Walsh-Quinn,Hyderabad,Vegetarian,3.4,53,No
+R0431,Lopez Ltd,Chennai,Continental,4.0,24,Yes
+R0432,Anthony-Ryan,Chennai,North Indian,4.4,32,No
+R0433,Rodgers-Gallagher,Chennai,Italian,3.2,38,Yes
+R0434,Miller Ltd,Delhi,Chinese,4.7,39,No
+R0435,Hall-Wagner,Bangalore,North Indian,4.3,33,Yes
+R0436,"Anderson, Wagner and Baker",Chennai,Mexican,3.1,54,No
+R0437,"Turner, King and Jordan",Kolkata,North Indian,4.9,29,Yes
+R0438,Stevens-Wells,Kolkata,Chinese,4.5,28,No
+R0439,Ware LLC,Kolkata,Italian,3.6,32,Yes
+R0440,"Keller, Crawford and Morgan",Mumbai,South Indian,3.4,30,Yes
+R0441,Steele-Brooks,Chennai,Continental,3.3,57,Yes
+R0442,"Rivera, Baldwin and Oconnell",Chennai,North Indian,3.3,30,Yes
+R0443,Goodman-Jackson,Kolkata,Continental,4.2,38,Yes
+R0444,Richardson-James,Chennai,Italian,4.1,48,Yes
+R0445,"Lin, Mcmahon and Clark",Delhi,Vegetarian,3.8,30,Yes
+R0446,"Estrada, Morgan and Johnson",Mumbai,Vegetarian,3.4,38,No
+R0447,Mitchell-Gibson,Mumbai,Continental,4.8,35,No
+R0448,Allen-Barnes,Hyderabad,Italian,3.1,28,No
+R0449,Cherry Inc,Kolkata,North Indian,5.0,51,No
+R0450,Cooper-Maxwell,Bangalore,Vegetarian,3.2,34,No
+R0451,Wall Group,Chennai,North Indian,3.1,51,Yes
+R0452,Thomas-Jones,Kolkata,North Indian,4.4,39,No
+R0453,"Green, Herring and Robertson",Mumbai,Italian,4.8,27,Yes
+R0454,"Gilbert, Rowland and Gonzalez",Hyderabad,Mexican,4.5,29,Yes
+R0455,"Snyder, Oconnell and Alexander",Delhi,Vegetarian,4.7,58,Yes
+R0456,King-Blackwell,,North Indian,4.8,38,Yes
+R0457,Johnson-Williamson,Kolkata,Vegetarian,3.4,56,Yes
+R0458,"Durham, Hancock and Brown",Delhi,Italian,4.0,36,Yes
+R0459,Hart-Gonzalez,Delhi,Mexican,4.9,25,No
+R0460,Richmond Ltd,Delhi,Mexican,4.6,26,No
+R0461,Hill and Sons,Delhi,Vegetarian,4.3,53,No
+R0462,Sanchez-Mcclain,Bangalore,Continental,3.5,48,Yes
+R0463,Wolfe-Burns,Kolkata,Vegetarian,5.0,50,No
+R0464,Barajas and Sons,Kolkata,Mexican,3.0,58,Yes
+R0465,Graham-Murillo,Bangalore,Italian,3.3,31,Yes
+R0466,"Thomas, Perez and Franklin",Delhi,South Indian,3.1,26,No
+R0467,Leon-Mills,Delhi,,4.0,48,No
+R0468,Myers-Ashley,Delhi,Mexican,5.0,52,No
+R0469,"Bailey, Dixon and Macias",Mumbai,Vegetarian,3.1,30,No
+R0470,"Smith, Stanley and Cummings",Hyderabad,South Indian,3.5,35,No
+R0471,Zimmerman-Fritz,Hyderabad,Continental,3.8,37,Yes
+R0472,Richardson-Knapp,Mumbai,Vegetarian,3.6,28,Yes
+R0473,Montgomery-Harris,Kolkata,North Indian,3.8,58,Yes
+R0474,"Bates, Boyd and Walters",Delhi,Italian,3.7,39,Yes
+R0475,Johnson and Sons,Hyderabad,Italian,4.4,49,No
+R0476,"Watson, Martin and Frazier",Kolkata,Mexican,4.6,46,No
+R0477,Green-Greene,Kolkata,Chinese,3.8,21,Yes
+R0478,"Huff, Matthews and Jackson",Mumbai,Italian,3.4,50,No
+R0479,"Harrison, Warren and Zuniga",Mumbai,Chinese,3.9,43,Yes
+R0480,"Harris, Herrera and Washington",Delhi,Continental,4.7,55,Yes
+R0481,Taylor LLC,Mumbai,North Indian,3.3,48,Yes
+R0482,Landry Inc,Mumbai,Mexican,3.5,52,No
+R0483,Herrera Inc,Kolkata,Vegetarian,3.1,20,No
+R0484,Melendez PLC,Hyderabad,Italian,4.0,35,No
+R0485,"Walker, Faulkner and Harper",Delhi,Mexican,4.4,49,No
+R0486,Irwin LLC,Hyderabad,Continental,3.3,26,Yes
+R0487,Bell-Fritz,Kolkata,North Indian,3.1,56,No
+R0488,Williams Group,Kolkata,Italian,3.2,60,Yes
+R0489,"Mckinney, Pollard and Johns",Hyderabad,North Indian,4.2,24,No
+R0490,Short Inc,Mumbai,North Indian,4.4,58,No
+R0491,Dixon-Callahan,Bangalore,Continental,4.2,30,Yes
+R0492,"Young, Hall and Spears",Bangalore,South Indian,4.3,46,No
+R0493,"Douglas, Bass and Adams",Hyderabad,Mexican,3.8,31,Yes
+R0494,Sullivan Group,Chennai,North Indian,4.6,37,Yes
+R0495,Clark-Johnston,Chennai,Italian,3.1,53,No
+R0496,Smith LLC,Delhi,Chinese,3.1,49,Yes
+R0497,"Curtis, Hodge and Vargas",Chennai,Continental,5.0,56,Yes
+R0498,Adams and Sons,Delhi,Vegetarian,3.1,60,Yes
+R0499,"Perez, Liu and Daniel",Bangalore,Italian,4.9,37,Yes
+R0500,Hansen Inc,Delhi,Italian,4.4,23,Yes
